@@ -1,0 +1,11 @@
+.motto {
+  color: white;
+  font-size: 0.8rem;
+  background: cornflowerblue;
+  background-color: rgba(100, 149, 237, 0.8);
+  text-align: center;
+  padding: 0.9rem;
+  position: sticky;
+  top: 0;
+  border-radius: 0.75rem;
+}
